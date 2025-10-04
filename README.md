@@ -190,8 +190,3 @@ Example plots include:
 
 This analysis provides actionable insights into how students engage and convert on a learning platform.
 By improving onboarding speed and shortening purchase timelines, educational platforms can significantly enhance **user retention** and **revenue performance**.
-
----
-
-Would you like me to include a small **“Results Summary Table”** section (e.g., average days, conversion percentages, etc.) for better presentation on GitHub?
-
